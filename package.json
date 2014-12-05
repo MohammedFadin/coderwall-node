@@ -1,0 +1,29 @@
+{
+  "name": "cwall-node",
+  "version": "1.0.0",
+  "description": "A simple Coderwall.com API implemintation in Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohammedFadin/cwall-node.git"
+  },
+  "keywords": [
+    "node.js",
+    "coderwall.com",
+    "coderwall",
+    "nodejs",
+    "api"
+  ],
+  "author": "Mohammed Fadin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammedFadin/cwall-node/issues"
+  },
+  "homepage": "https://github.com/MohammedFadin/cwall-node",
+  "dependencies": {
+    "request": "^2.49.0"
+  }
+}
