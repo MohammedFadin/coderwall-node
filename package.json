@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/MohammedFadin/cwall-node",
   "dependencies": {
+    "cheerio": "^0.18.0",
     "request": "^2.49.0"
   }
 }
