@@ -1,4 +1,4 @@
-cwall-node
+Coderwall-Node
 ==========
 
  A simple but extended Coderwall.com API Wrapper for Node.JS
