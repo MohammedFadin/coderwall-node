@@ -2,7 +2,7 @@
 
 var coderwall = require('./lib/cwall-node.js');
 
-coderwall.getUserInfo('mohammedfadin', function(data) {
+coderwall.getUserProfile('mohammedfadin', function(data) {
     console.log(data);
     // Uncomment below if not needed
     // require('http').createServer(function(req, res) {
