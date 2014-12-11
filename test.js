@@ -5,9 +5,19 @@ var coderwall = require('./lib/cwall-node.js');
 coderwall.getUserInfo('mohammedfadin', function(data) {
     console.log(data);
     // Uncomment below if not needed
-    require('http').createServer(function(req, res) {
-        res.end(JSON.stringify(data));
-    }).listen('3000', function() {
-        console.log('Check results on port 3000 for result');
-    });
+    // require('http').createServer(function(req, res) {
+    //     res.end(JSON.stringify(data));
+    // }).listen('3000', function() {
+    //     console.log('Check results on port 3000 for result');
+    // });
+});
+
+coderwall.getUserLatestProtips('DevatoTech', function(data) {
+    console.log(data);
+    // Uncomment below if not needed
+    // require('http').createServer(function(req, res) {
+    //     res.end(JSON.stringify(data));
+    // }).listen('3000', function() {
+    //     console.log('Check results on port 3000 for result');
+    // });
 });
