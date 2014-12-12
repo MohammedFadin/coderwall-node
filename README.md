@@ -10,3 +10,8 @@ Coderwall-Node
 ##TODOs:
  - Get User protips links and titles
  - Get users' total protips
+
+
+##The MIT License (MIT)
+Copyright (c) 2014 Mohammed S Fadin
+
