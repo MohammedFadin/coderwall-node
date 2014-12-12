@@ -8,8 +8,8 @@ Coderwall-Node
  - User Latest 4 Protips `getUserLatestProtips()`
 
 ##TODOs:
- - Get User protips links and titles
- - Get users' total protips
+ - Get user total protips
+ - Parse user image
 
 
 ##The MIT License (MIT)
