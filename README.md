@@ -9,7 +9,6 @@ Coderwall-Node
 
 ##TODOs:
  - Get user total protips
- - Parse user image
 
 
 ##The MIT License (MIT)
