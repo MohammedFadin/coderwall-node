@@ -1,6 +1,6 @@
 {
   "name": "coderwall-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple but extended Coderwall.com API wrapper in Node.JS",
   "main": "test.js",
   "scripts": {
