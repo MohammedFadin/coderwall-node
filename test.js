@@ -4,7 +4,7 @@ var coderwall = require('./lib/cwall-node.js');
 
 coderwall.getUserProfile('mohammedfadin', function(data) {
     console.log(data);
-    // Uncomment below if not needed
+    // Uncomment below if needed
     // require('http').createServer(function(req, res) {
     //     res.end(JSON.stringify(data));
     // }).listen('3000', function() {
@@ -14,7 +14,7 @@ coderwall.getUserProfile('mohammedfadin', function(data) {
 
 coderwall.getUserLatestProtips('DevatoTech', function(data) {
     console.log(data);
-    // Uncomment below if not needed
+    // Uncomment below if needed
     // require('http').createServer(function(req, res) {
     //     res.end(JSON.stringify(data));
     // }).listen('3000', function() {
