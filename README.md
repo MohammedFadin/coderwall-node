@@ -5,7 +5,6 @@ Coderwall-Node
 
 ##Current Features:
  - User information including about-me, number of total protips and profile avatar`getUserProfile()`
-=======
  - User information including about-me, number of total protips and profile avatar  `getUserProfile()`
  - User Latest 4 Protips `getUserLatestProtips()`
 
